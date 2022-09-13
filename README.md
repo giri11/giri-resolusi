@@ -1,0 +1,2 @@
+# giri-resolusi
+resolusi giri
